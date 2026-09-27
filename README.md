@@ -89,3 +89,8 @@ Building this project was less about the code and more about understanding *why*
 ## Credits
 
 This project uses the free [Pwned Passwords API](https://haveibeenpwned.com/API/v3#PwnedPasswords) provided by Have I Been Pwned, created by Troy Hunt. This project is an independent tool built on top of that public API — it does not claim to replace or compete with the original service.
+
+## Author 
+
+Made by -   Sudhanshu Tiwari
+
